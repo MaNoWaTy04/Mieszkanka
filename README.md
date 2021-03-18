@@ -1,1 +1,1 @@
-# Mieszkanka
+# Rozbudowany system mieszkań
